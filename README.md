@@ -1,4 +1,17 @@
 # UART_UVM
-A testbench for UART using UVM
+
+DUT:
 
 ![image](https://github.com/uranusb/Image/blob/main/UART_Framework.png)
+
+
+Testbench:
+
+Tested on Synopsys VCS.
+
+Scenario: 
+<br />
+Generate data packet with random tx_din for multiple times, compare the expected rx_dout(tx_din) and the actual rx_dout.
+DUT
+
+
