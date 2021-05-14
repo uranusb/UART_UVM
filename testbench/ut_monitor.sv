@@ -29,7 +29,6 @@ class ut_monitor extends uvm_monitor;
   endtask
   
   virtual task get_din();
-    //!!!
     @(posedge vif.mon_mp.clk)
     @(posedge vif.mon_mp.clk)
     @(posedge vif.mon_mp.clk)
