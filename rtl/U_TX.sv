@@ -103,11 +103,5 @@ module U_TX(clk, rst_n, tx_trigger, tx_din, tx, tx_busy, tx_done);
   end
   
 endmodule
-        
-            
-                
-              
-      
-      
-  
+
   
