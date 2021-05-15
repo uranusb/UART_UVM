@@ -98,13 +98,4 @@ module U_RX(clk, rst_n, rx, rx_dout, rx_comp);
     end
   end
 endmodule
-              
-           
-              
-              
-            
-            
-  
-  
-  
   
