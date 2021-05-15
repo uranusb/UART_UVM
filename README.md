@@ -10,6 +10,6 @@ DUT:
 Testbench(Tested on Synopsys VCS):
 <br />
 <br />
-Scenario: Generate tx_in randomly for multiple times, compare the expected rx_dout(tx_din) and the actual rx_dout.
+Scenario: Generate tx_din randomly for multiple times, compare the expected rx_dout(tx_din) and the actual rx_dout.
 
 
